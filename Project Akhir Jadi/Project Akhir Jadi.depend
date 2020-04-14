@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1578891630 source:i:\amikom\pemrograman\jadi\project akhir jadi\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<windows.h>
+
